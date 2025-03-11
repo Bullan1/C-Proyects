@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Prueba V1.0.0",
+    "\\Prueba V1.0.0\\Prueba V1.0.0",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria\\App_Start",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria\\Content",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria\\Views",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria\\Views\\Home",
+    "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Prueba V1.0.0\\Prueba V1.0.0\\Proyecto_Pizzeria\\Proyecto_Pizzeria\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

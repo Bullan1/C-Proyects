@@ -1,0 +1,16 @@
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\CarteleraCine.exe.config
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\CarteleraCine.exe
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\CarteleraCine.pdb
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\EntityFramework.dll
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\EntityFramework.xml
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.Form1.resources
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.Properties.Resources.resources
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.csproj.GenerateResource.cache
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\Carteler.034930F6.Up2Date
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.exe
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.pdb
+C:\Users\alexi\source\repos\ProyectoCineApp\CarteleraCine\obj\Debug\CarteleraCine.View.FormularioCRUD.resources

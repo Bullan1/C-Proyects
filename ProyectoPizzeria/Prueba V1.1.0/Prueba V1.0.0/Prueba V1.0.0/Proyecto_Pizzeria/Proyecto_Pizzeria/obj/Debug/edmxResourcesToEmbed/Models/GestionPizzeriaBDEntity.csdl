@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionPizzeriaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ClientesPizzeria">
+    <Key>
+      <PropertyRef Name="IdClientes" />
+    </Key>
+    <Property Name="IdClientes" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="IdPizza" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Pizzas" Relationship="Self.FK__ClientesP__IdPiz__3E52440B" FromRole="ClientesPizzeria" ToRole="Pizzas" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__ClientesP__UserI__3D5E1FD2" FromRole="ClientesPizzeria" ToRole="Usuarios" />
+  </EntityType>
+  <EntityType Name="Pizzas">
+    <Key>
+      <PropertyRef Name="IdPizza" />
+    </Key>
+    <Property Name="IdPizza" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreP" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Precio" Type="Int32" Nullable="false" />
+    <Property Name="TamañoPizza" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Disponible" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="ClientesPizzeria" Relationship="Self.FK__ClientesP__IdPiz__3E52440B" FromRole="Pizzas" ToRole="ClientesPizzeria" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="IdRol" />
+    </Key>
+    <Property Name="IdRol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreRol" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__Usuarios__IdRol__38996AB5" FromRole="Roles" ToRole="Usuarios" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Clave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ConfirmacionClave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <Property Name="IdRol" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ClientesPizzeria" Relationship="Self.FK__ClientesP__UserI__3D5E1FD2" FromRole="Usuarios" ToRole="ClientesPizzeria" />
+    <NavigationProperty Name="Roles" Relationship="Self.FK__Usuarios__IdRol__38996AB5" FromRole="Usuarios" ToRole="Roles" />
+  </EntityType>
+  <Association Name="FK__ClientesP__IdPiz__3E52440B">
+    <End Role="Pizzas" Type="Self.Pizzas" Multiplicity="1" />
+    <End Role="ClientesPizzeria" Type="Self.ClientesPizzeria" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pizzas">
+        <PropertyRef Name="IdPizza" />
+      </Principal>
+      <Dependent Role="ClientesPizzeria">
+        <PropertyRef Name="IdPizza" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ClientesP__UserI__3D5E1FD2">
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+    <End Role="ClientesPizzeria" Type="Self.ClientesPizzeria" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuarios">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="ClientesPizzeria">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Usuarios__IdRol__38996AB5">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="IdRol" />
+      </Principal>
+      <Dependent Role="Usuarios">
+        <PropertyRef Name="IdRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GestionPizzeriaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ClientesPizzeria" EntityType="Self.ClientesPizzeria" />
+    <EntitySet Name="Pizzas" EntityType="Self.Pizzas" />
+    <EntitySet Name="Roles" EntityType="Self.Roles" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+    <AssociationSet Name="FK__ClientesP__IdPiz__3E52440B" Association="Self.FK__ClientesP__IdPiz__3E52440B">
+      <End Role="Pizzas" EntitySet="Pizzas" />
+      <End Role="ClientesPizzeria" EntitySet="ClientesPizzeria" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ClientesP__UserI__3D5E1FD2" Association="Self.FK__ClientesP__UserI__3D5E1FD2">
+      <End Role="Usuarios" EntitySet="Usuarios" />
+      <End Role="ClientesPizzeria" EntitySet="ClientesPizzeria" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Usuarios__IdRol__38996AB5" Association="Self.FK__Usuarios__IdRol__38996AB5">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Usuarios" EntitySet="Usuarios" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

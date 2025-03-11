@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionCineModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cines">
+    <Key>
+      <PropertyRef Name="IdCine" />
+    </Key>
+    <Property Name="IdCine" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ciudad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Comuna" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="UsuariosCines" Relationship="Self.FK__UsuariosC__IdCin__3E52440B" FromRole="Cines" ToRole="UsuariosCines" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="IdRol" />
+    </Key>
+    <Property Name="IdRol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreRol" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__Usuarios__IdRol__38996AB5" FromRole="Roles" ToRole="Usuarios" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Clave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ConfirmacionClave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <Property Name="IdRol" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Roles" Relationship="Self.FK__Usuarios__IdRol__38996AB5" FromRole="Usuarios" ToRole="Roles" />
+    <NavigationProperty Name="UsuariosCines" Relationship="Self.FK__UsuariosC__UserI__3D5E1FD2" FromRole="Usuarios" ToRole="UsuariosCines" />
+  </EntityType>
+  <EntityType Name="UsuariosCines">
+    <Key>
+      <PropertyRef Name="IdUsuarioCine" />
+    </Key>
+    <Property Name="IdUsuarioCine" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="IdCine" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Cines" Relationship="Self.FK__UsuariosC__IdCin__3E52440B" FromRole="UsuariosCines" ToRole="Cines" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__UsuariosC__UserI__3D5E1FD2" FromRole="UsuariosCines" ToRole="Usuarios" />
+  </EntityType>
+  <Association Name="FK__UsuariosC__IdCin__3E52440B">
+    <End Role="Cines" Type="Self.Cines" Multiplicity="1" />
+    <End Role="UsuariosCines" Type="Self.UsuariosCines" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cines">
+        <PropertyRef Name="IdCine" />
+      </Principal>
+      <Dependent Role="UsuariosCines">
+        <PropertyRef Name="IdCine" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Usuarios__IdRol__38996AB5">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="IdRol" />
+      </Principal>
+      <Dependent Role="Usuarios">
+        <PropertyRef Name="IdRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsuariosC__UserI__3D5E1FD2">
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+    <End Role="UsuariosCines" Type="Self.UsuariosCines" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuarios">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UsuariosCines">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GestionCineEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cines" EntityType="Self.Cines" />
+    <EntitySet Name="Roles" EntityType="Self.Roles" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+    <EntitySet Name="UsuariosCines" EntityType="Self.UsuariosCines" />
+    <AssociationSet Name="FK__UsuariosC__IdCin__3E52440B" Association="Self.FK__UsuariosC__IdCin__3E52440B">
+      <End Role="Cines" EntitySet="Cines" />
+      <End Role="UsuariosCines" EntitySet="UsuariosCines" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Usuarios__IdRol__38996AB5" Association="Self.FK__Usuarios__IdRol__38996AB5">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Usuarios" EntitySet="Usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsuariosC__UserI__3D5E1FD2" Association="Self.FK__UsuariosC__UserI__3D5E1FD2">
+      <End Role="Usuarios" EntitySet="Usuarios" />
+      <End Role="UsuariosCines" EntitySet="UsuariosCines" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Pizzeria</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/styles.css")
+    @Styles.Render("~/Content/style1.css")
+    @Scripts.Render("~/Scripts/modal.js")
+
+    <link rel="stylesheet" type="text/css" href="~/Content/styles.css" />
+</head>
+<body>
+    <center>
+        <nav>
+            @if (ViewBag.rolusuario == 2)
+                        {
+            <div class="nombre">
+                <h2>PIZZA'S INC</h2>
+                <div class="carrito-compra" id="carrito-compra">
+                    <button id="carritoBtn">
+                        <img src="@Url.Content("~/Content/img/md.png")" alt="Carrito de compras" ;">
+                    </button>
+                </div>
+            </div>
+            <center>
+                <div class="navbar">
+                    @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Gestion Clientes", "Productos", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Contacto", "Contact", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Cerrar Sesion", "CerrarSesion", "Gestion", null, new { @class = "nav-link" })
+
+                </div>
+            </center>
+                        }
+                        else if (ViewBag.rolusuario == 1)
+                        {
+            <div class="nombre">
+                <h2>PIZZA'S INC</h2>
+                <div class="carrito-compra" id="carrito-compra">
+                    <button id="carritoBtn">
+                        <img src="@Url.Content("~/Content/img/md.png")" alt="Carrito de compras" ;">
+                    </button>
+                </div>
+            </div>
+            <center>
+                <div class="navbar">
+                    @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Gestion Pizzas", "ListaPizza", "Pizzas", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Cerrar Sesion", "CerrarSesion", "Gestion", null, new { @class = "nav-link" })
+                </div>
+            </center>
+                        }
+                        else
+                        {
+            <div class="nombre">
+                <h2>PIZZA'S INC</h2>
+                <div class="carrito-compra" id="carrito-compra">
+                    <button id="carritoBtn">
+                        <img src="@Url.Content("~/Content/img/md.png")" alt="Carrito de compras" ;">
+                    </button>
+                </div>
+            </div>
+            <center>
+                <div class="navbar">
+                    @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Contacto", "Contact", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Productos", "Productos", "Home", null, new { @class = "nav-link" })
+                    @Html.ActionLink("Iniciar Sesion", "AccesoUsuario", "Acceso", null, new { @class = "nav-link" })
+                </div>
+            </center>
+                        }
+        </nav>
+    </center>
+
+    <!-- Modal -->
+    <div id="carritoModal" class="modal" style="right: 10px">
+        <!-- Posición a la derecha -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <center>
+                <h2>CARRITO DE COMPRA</h2>
+            </center>
+            <ul id="cartItems">
+                <!-- Aquí se mostrarán las pizzas seleccionadas -->
+            </ul>
+            <br />
+            <p>Total:<span id="totalPrice">$0.00</span></p>
+            <a class="buy-button" href="/Home/Mensaje"> Comprar</a>
+        </div>
+
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>Prueba Programacion .NET -- Manuel Barra & Joel Ferrada.</p>
+            <p>&copy; @DateTime.Now.Year -- Todos los derechos reservados by Pizza'za --- Hora actual: <span id="currentTimeValue"></span>.</p>
+
+        </footer>
+    </div>
+
+    <script>
+        // Función para obtener la hora actual en formato HH:mm:ss
+        function getCurrentTime() {
+            var now = new Date();
+            var hours = now.getHours();
+            var minutes = now.getMinutes();
+            var seconds = now.getSeconds();
+
+            // Aseguramos que los valores tengan dos dígitos
+            hours = (hours < 10) ? "0" + hours : hours;
+            minutes = (minutes < 10) ? "0" + minutes : minutes;
+            seconds = (seconds < 10) ? "0" + seconds : seconds;
+
+            return hours + ":" + minutes + ":" + seconds;
+        }
+
+        // Función para actualizar la hora cada segundo
+        function updateClock() {
+            var currentTimeElement = document.getElementById('currentTimeValue');
+            if (currentTimeElement) {
+                currentTimeElement.textContent = getCurrentTime();
+            }
+        }
+
+        // Actualizamos la hora cada segundo
+        setInterval(updateClock, 1000);</script>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

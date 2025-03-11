@@ -1,0 +1,58 @@
+﻿@model Proyecto_Pizzeria.Models.Pizzas
+
+@{
+    ViewBag.Title = "DetallePizza";
+}
+
+<h2>DetallePizza</h2>
+
+<div>
+    <h4>Pizzas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TamañoPizza)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TamañoPizza)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Disponible)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Disponible)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("EditarPizza", "EditarPïzza", new { id = Model.IdPizza }) |
+    @Html.ActionLink("Volver a La Lista", "ListaPizza")
+</p>

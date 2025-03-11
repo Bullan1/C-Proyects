@@ -1,0 +1,31 @@
+﻿@model Proyecto_Pizzeria.Models.Usuarios
+
+@{
+    ViewBag.Title = "AccesoUsuario";
+}
+
+<h2>INICIAR SESION</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-register">
+        @Html.LabelFor(model => model.CorreoElectronico)
+       
+    </div>
+    <div class="form-register">
+         @Html.TextBoxFor(model => model.CorreoElectronico, new { @class = "Form-control" })
+    </div>
+
+    <div class="form-register">
+        @Html.LabelFor(model => model.Clave)
+    </div>
+    <div class="form-register">
+        @Html.TextBoxFor(model => model.Clave, new { @class = "Form-control" })
+    </div>
+    
+    <br />
+    <button type="submit" class="btn btn-primary">Acceder</button>
+    @Html.ActionLink("¿Quieres Registrarte?","Registro","Registro")
+}
+

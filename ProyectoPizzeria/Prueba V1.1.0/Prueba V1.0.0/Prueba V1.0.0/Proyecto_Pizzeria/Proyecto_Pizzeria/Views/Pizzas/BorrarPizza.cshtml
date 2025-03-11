@@ -1,0 +1,64 @@
+﻿@model Proyecto_Pizzeria.Models.Pizzas
+
+@{
+    ViewBag.Title = "BorrarPizza";
+}
+
+<h2>BorrarPizza</h2>
+
+<h3>¿Seguro que deseas borrar?</h3>
+<div>
+    <h4>Pizzas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TamañoPizza)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TamañoPizza)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Disponible)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Disponible)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Borrar" class="btn btn-default" /> |
+            @Html.ActionLink("Volver a La Lista", "ListaPizza")
+        </div>
+    }
+</div>

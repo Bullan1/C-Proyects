@@ -1,0 +1,698 @@
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CopyComplete
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\Santo Tomas\Desktop\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CopyComplete
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\Santo Tomas\Downloads\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\joela\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto.43FCA731.Up2Date
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto.43FCA731.Up2Date
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\nicol\OneDrive\Escritorio\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto.43FCA731.Up2Date
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\joela\Downloads\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto.43FCA731.Up2Date
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\nicol\Downloads\Prueba V1.4\Prueba V1.3\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.AppContext.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Console.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Http.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.ValueTuple.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto.43FCA731.Up2Date
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\nicol\Downloads\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll.config
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Proyecto_Pizzeria.pdb
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.exe.config
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csc.rsp
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.exe.config
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\csi.rsp
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.exe.config
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\vbc.rsp
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\WebGrease.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\EntityFramework.SqlServer.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Helpers.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Mvc.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Optimization.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.Razor.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\System.Web.WebPages.Razor.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Newtonsoft.Json.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Antlr3.Runtime.pdb
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.Razor.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.AssemblyReference.cache
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto.43FCA731.Up2Date
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\obj\Debug\Proyecto_Pizzeria.pdb
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Buffers.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Memory.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\joela\Downloads\Prueba V1.82\Prueba V1.8\Prueba V1.1.0\Prueba V1.0.0\Prueba V1.0.0\Proyecto_Pizzeria\Proyecto_Pizzeria\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<GestionCineAPP.Models.Cines>
+
+@{
+    ViewBag.Title = "ListaCine";
+}
+
+<h2>ListaCine</h2>
+
+<p>
+    @Html.ActionLink("CrearCine", "CrearCine")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comuna)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Activo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ciudad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comuna)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Activo)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "EditarCine", new { id=item.IdCine }) |
+            @Html.ActionLink("Detalles", "DetalleCine", new { id=item.IdCine }) |
+            @Html.ActionLink("Borrar", "BorrarCine", new { id=item.IdCine })
+        </td>
+    </tr>
+}
+
+</table>
